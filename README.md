@@ -90,6 +90,20 @@ For 6 people, **private AC van beats internal flights** ($200–280 vs ~$900 for
 
 **Pick: #2 (Beach Escape)** for budget, **#1 (Croco Beach House)** for splurge, **#4 (Hideaway)** if you don't want self-catering. Lock this **this week** — Sat 30 May fills first.
 
+#### 🏊 Pool Villas — Arugam Bay (want a pool with the villa?)
+
+If having a pool at the property is a priority, these are the best options for 6 people:
+
+| # | Property | Pool | Sleeps 6? | Approx | Why it stands out | Link |
+|---|---|---|---|---|---|---|
+| A | **The Spice Trail** | ✅ Shared pool (large, well-maintained) | Yes (book villas + extra rooms) | ~$80–130/room/night | Rated 4.5–4.9/5 across platforms. Boutique villa-style rooms with lush garden, steps from beach. On-site restaurant, poolside bar, sun loungers. Top 3 property in A-Bay. Book early — fills fast in peak season. | [Booking.com](https://www.booking.com/hotel/lk/the-spice-trail.html) · [Official site](https://www.thespicetrails.com/) |
+| B | **Aprota Villas Arugambay** | ✅ Multi-tier pool (beachfront, large) | Yes (multiple villas) | ~$90–150/room/night | Beachfront. Multi-level pool with views, private pool access for select rooms. Lush gardens, quiet and secluded, attentive staff. Slightly outside the main strip — hire a tuk-tuk for nights out. | [Booking.com](https://www.booking.com/hotel/lk/aprota-villas-arugambay.html) · [Tripadvisor](https://www.tripadvisor.com/Hotel_Feature-g608525-d13295467-zft6217-Aprota_Villas_Arugambay.html) |
+| C | **Badua's Paradise** | ✅ Private pool (enclosed garden) | Yes (2BR + extra mattresses) | ~$120–250/night (whole villa) | Airbnb entire villa — private pool, A/C, full kitchen, enclosed garden. Short walk to beach. Rated 4.47/5. Best pick if you want a fully private pool and self-catering setup for the group. | [Airbnb listing](https://www.airbnb.com/rooms/719130633758788676) |
+
+**Pool villa pick: Option A (The Spice Trail)** for the best balance of pool quality, vibe, and reviews. **Option C (Badua's Paradise)** if you want a 100% private pool for just your group. Book by end of April — peak surf season (late May) sells out.
+
+> **Tip:** For Airbnb pool villas, also search: [Airbnb Arugam Bay — Pool filter](https://www.airbnb.com/s/Arugam-Bay--Sri-Lanka/homes?amenities%5B%5D=7&adults=6) · [Booking.com pool villas](https://www.booking.com/searchresults.html?ss=Arugam+Bay&amenities=pool&checkin=2026-05-29&checkout=2026-06-01&group_adults=6)
+
 ### Aggregator searches (for reference)
 
 - [Airbnb — Arugam Bay villas](https://www.airbnb.com/arugam-bay-sri-lanka/stays/villas)
