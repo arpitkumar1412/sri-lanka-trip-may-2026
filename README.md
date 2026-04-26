@@ -1,6 +1,6 @@
 # Sri Lanka Trip — Final Itinerary & Booking Pack
 
-**Group of 6 · Hyderabad → Colombo → Arugam Bay · 28 May – 1 June 2026**
+**Group of 6 · Hyderabad → Colombo → Arugam Bay · 28 May – 2 June 2026**
 
 ---
 
@@ -24,7 +24,7 @@ Late May is the start of Sri Lanka's southwest (Yala) monsoon — the west and s
 
 ## 2. Flights — HYD ↔ CMB
 
-28 May 2026 = Thursday · 1 Jun 2026 = Monday. Both direct carriers fly on these days.
+28 May 2026 = Thursday · 2 Jun 2026 = Tuesday. Both direct carriers fly on these days.
 
 ### Outbound (28 May) — pick the earliest direct to maximise Day 1
 
@@ -33,7 +33,7 @@ Late May is the start of Sri Lanka's southwest (Yala) monsoon — the west and s
 | 1 | **SriLankan UL** | Yes (~10:15 dep, lands ~12:30 LKT) | Best for max-stay. ~₹14–20k pp | [srilankan.com](https://www.srilankan.com) · [SriLankan on MMT](https://www.makemytrip.com/international-flights/hyderabad-colombo-srilankan_airlines-tickets.html) |
 | 2 | **IndiGo 6E** | Yes (~11:45–12:00 dep) | Cheapest direct. ₹9.3k–14k pp | [goindigo.in](https://www.goindigo.in/international-flights/hyderabad-to-colombo-flights.html) |
 
-### Return (1 Jun) — last direct of the day to maximise A-Bay morning
+### Return (2 Jun) — afternoon/evening direct out of CMB
 
 | # | Carrier | Notes | Book |
 |---|---|---|---|
@@ -42,13 +42,13 @@ Late May is the start of Sri Lanka's southwest (Yala) monsoon — the west and s
 
 ### Aggregators to compare
 
-- [Skyscanner HYD→CMB](https://www.skyscanner.co.in/transport/flights/hyd/cmb/260528/260601/?adults=6&cabinclass=economy)
+- [Skyscanner HYD→CMB](https://www.skyscanner.co.in/transport/flights/hyd/cmb/260528/260602/?adults=6&cabinclass=economy)
 - [Cleartrip](https://www.cleartrip.com/flight-schedule/hyderabad-colombo-flights.html)
 - [EaseMyTrip](https://www.easemytrip.com/flights/hyderabad-hyd-to-colombo-cmb/)
 - [MakeMyTrip](https://www.makemytrip.com)
 - [FlightsFrom (schedule reference)](https://www.flightsfrom.com/HYD-CMB)
 
-**Recommended combo:** SriLankan out (28 May, 10:15) + IndiGo back (1 Jun, latest evening). Mixed-carrier RT often saves ₹3–5k pp.
+**Recommended combo:** SriLankan out (28 May, 10:15) + IndiGo back (2 Jun, afternoon/evening). Mixed-carrier RT often saves ₹3–5k pp.
 
 ---
 
@@ -67,7 +67,7 @@ For 6 people, **private AC van beats internal flights** ($200–280 vs ~$900 for
 
 ## 4. Stays
 
-### Colombo — 1 night (28 → 29 May)
+### Colombo — 2 nights total (1 night arrival 28 → 29 May, 1 night return 1 → 2 Jun)
 
 | # | Property | Type | Sleeps 6? | Approx | Link |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@ For 6 people, **private AC van beats internal flights** ($200–280 vs ~$900 for
 | 2 | **Flower Road Villa, Bambalapitiya** | Airbnb 3BR | Yes | ~$203/night | [Airbnb Colombo 03 listings](https://www.airbnb.com/colombo-03-sri-lanka/stays) |
 | 3 | **Cinnamon Red Colombo (hotel backup)** | 3 twin rooms | Yes (3 rooms) | ~₹8–10k/room | [Booking.com](https://www.booking.com/searchresults.html?ss=Cinnamon+Red+Colombo) |
 
-**Pick: #1** — best price/value, ocean-view, walkable to rooftop bars.
+**Pick: #1** — best price/value, ocean-view, walkable to rooftop bars. Book the **same property for both nights** if available, or rebook a similar Colombo 03 apartment for the 1 → 2 Jun return night (close to airport for the morning departure).
 
 ### Arugam Bay — 3 nights (29 May → 1 Jun)
 
@@ -190,12 +190,12 @@ For 6 people, **private AC van beats internal flights** ($200–280 vs ~$900 for
 
 ---
 
-### Day 5 — Mon 1 Jun · A-Bay → Colombo → HYD
+### Day 5 — Mon 1 Jun · A-Bay → Colombo (Travel Back)
 
 **Morning:**
 
 - Sunrise walk on the beach
-- Breakfast at villa
+- Breakfast at villa, last dip
 - Van pickup ~7 AM
 
 **Transit options:**
@@ -203,12 +203,30 @@ For 6 people, **private AC van beats internal flights** ($200–280 vs ~$900 for
 - **A.** Private van A-Bay → CMB direct (8–9 hrs) — book via villa
 - **B.** Faster: 1.5 hr van A-Bay → Batticaloa, then [FitsAir BTC→CMB](https://www.fitsair.com) ~1 hr
 
-**If layover time in Colombo:**
+**Late afternoon (arrive Colombo ~4–5 PM):**
 
-- Lunch at **Ministry of Crab** ([book ahead](https://www.ministryofcrab.com))
+- Check in to Colombo apartment, freshen up
 - Last-minute shopping at **Odel** (Sri Lankan fashion + souvenirs) or **Barefoot** (textiles)
 
-**Evening:** IndiGo CMB→HYD return. Build a 4-hr CMB airport buffer.
+**Evening:**
+
+- Farewell dinner at **Ministry of Crab** ([book ahead](https://www.ministryofcrab.com)) — saved for the last night
+- Final sundowner at **On14 Rooftop Bar** or **Cloud Café (Hilton)**
+- Easy night — early flight tomorrow
+
+**Stay:** Colombo apartment (return-night booking) — see [Section 4](#4-stays)
+
+---
+
+### Day 6 — Tue 2 Jun · Colombo → HYD (Departure)
+
+**Morning:**
+
+- Breakfast near the apartment (Galle Face area: **Café Kumbuk** or hotel café)
+- Quick stop for any pending souvenirs / cash exchange at the mall
+- Taxi to **CMB airport** — leave 3.5–4 hrs before flight (Colombo traffic + immigration queues)
+
+**Afternoon/Evening:** IndiGo / SriLankan CMB→HYD return (whichever direct slot you booked). Land HYD same evening.
 
 ---
 
@@ -228,8 +246,8 @@ For 6 people, **private AC van beats internal flights** ($200–280 vs ~$900 for
 ## 7. Action Items (Priority Order)
 
 1. **This week** — Lock A-Bay villa (Sat 30 May fills first). My pick: [Beach Escape](https://www.airbnb.com/rooms/659327237503070174) or [Croco Beach House](https://www.airbnb.com/rooms/25094803).
-2. **This week** — Book HYD-CMB flights. Watch [Skyscanner](https://www.skyscanner.co.in/transport/flights/hyd/cmb/260528/260601/?adults=6&cabinclass=economy) for 3–4 days for price drops.
-3. **2 weeks before** — Book Colombo Airbnb + private van transfer.
+2. **This week** — Book HYD-CMB flights (out 28 May, return 2 Jun). Watch [Skyscanner](https://www.skyscanner.co.in/transport/flights/hyd/cmb/260528/260602/?adults=6&cabinclass=economy) for 3–4 days for price drops.
+3. **2 weeks before** — Book Colombo Airbnb (both nights: 28→29 May arrival, 1→2 Jun return) + private van transfer.
 4. **18–20 May** — All 6 apply ETAs at [eta.gov.lk](https://www.eta.gov.lk).
 5. **1 week before** — Book Pottuvil Lagoon Safari for Day 4 morning.
 6. **Day before** — Print ETA, return ticket, accommodation proof for immigration.
